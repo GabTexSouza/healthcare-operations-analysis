@@ -1,0 +1,5 @@
+wait_time_group,patients,avg_satisfaction
+Até 30 min,706,8.12
+30-60 min,2214,7.47
+60-90 min,1771,6.86
+Acima de 90 min,309,6.23

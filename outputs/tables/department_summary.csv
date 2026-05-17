@@ -1,0 +1,8 @@
+department,patients,avg_wait_time,avg_los,readmission_rate,avg_satisfaction
+Cardiology,665,44.09,4.52,22.41,7.45
+Emergency,1400,74.66,2.55,10.21,6.9
+General Medicine,761,59.87,3.23,10.51,7.17
+Neurology,521,54.83,4.97,19.58,7.17
+Oncology,424,39.59,5.95,22.41,7.51
+Orthopedics,612,50.6,3.74,11.27,7.32
+Pediatrics,617,35.3,2.09,10.86,7.92
